@@ -35,23 +35,23 @@
     "ignoreCommand": []
   },
   "adminBot": [
-    "61567301076941",
-    "100086680386976",
-    "100082395531611",
-    "100000654976375",
-    "100025583375614",
-    "100092421819567",
-    "100057845471745",
-    "61559253790096"
+    "100092397020415",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    ""
   ],
   "whiteListMode": {
     "enable": false,
     "whiteListIds": [
-      "61567301076941",
-      "100082395531611",
-      "100086680386976",
-      "100000654976375",
-      "100025583375614"
+      "100092397020415",
+      "",
+      "",
+      "",
+      ""
       
     ],
     "notes": "if you enable this feature, only the ids in the whiteListIds section can use the bot"
@@ -62,10 +62,10 @@
   "api": "",
   "api2": "",
   "api3": "",
-  "authorName": "Ullash ッ",
+  "authorName": "ROHAN ッ",
   "facebook2": "https://www.facebook.com/100000654976375",
   "facebook": "https://www.facebook.com/100086680386976",
-  "email": "ullash263@gmail.com",
+  "email": "rohanmia1230000000@gmail.com",
   "replit": "https://replit.com/@ullash264",
   "github": "Find out.",
   "insta": "no",
@@ -183,7 +183,7 @@
   "whiteListModeThread": {
     "enable": false,
     "whiteListThreadIds": [
-      "7271330272945067"
+      "100092397020415"
     ],
     "notes": "if you enable this feature, only the thread in the whiteListThreadIds list can use the bot",
     "how_it_work": "if you enable both whiteListMode and whiteListModeThread, the system will check if the user is in whiteListIds, then check if the thread is in whiteListThreadIds, if one of the conditions is true, the user can use the bot"
